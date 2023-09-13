@@ -1,0 +1,8 @@
+The data set has been fetched from Kaggle.
+As the dataSet being big in size containing 35000+ images distributed over 7 classes of emotions, 
+the dataset was integrated into Google Colab using Kaggle's API key rather than downloading the whole thing.
+
+Link:
+  https://www.kaggle.com/code/jonathanoheix/face-expression-recognition-with-deep-learning
+
+The whole process and required commands for dataset accesing is explained in README file.
